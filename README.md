@@ -42,6 +42,9 @@ The site is completely responsive with five pages.
 #### Images:  
 [Unsplash](https://unsplash.com/fr) (*Royality free*)  
 
+### Author:  
+Zineb El yattouti - Junior Web Developer at Becode.org
+
 
 
 
